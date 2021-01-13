@@ -2,3 +2,4 @@
 
 
 chmod +x script/Upcloud.LAMP.Wordpress.sh 
+./Upcloud.LAMP.Wordpress.sh 
