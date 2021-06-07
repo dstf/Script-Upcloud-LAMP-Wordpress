@@ -6,7 +6,7 @@
 This shell script will install the LAMP Stack + Wordpress automatically on Debian 10 server
 
 
-# Download the following shell script or clone it with the following command.
+Download the following shell script or clone it with the following command.
 ```
 git clone https://github.com/dstf/Script_Upcloud_LAMP_Wordpress.git
 ```
