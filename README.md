@@ -1,7 +1,7 @@
-## UpCloud Set up / Install / Configure - LAMP + Wordpress on DEBIAN server 
+# UpCloud Set up / Install / Configure - LAMP + Wordpress on DEBIAN server 
 
 
-# Automated-LAMP-Installation
+## Automated-LAMP-Installation
 
 This shell script will install the LAMP Stack + Wordpress automatically on Debian 10 server
 
